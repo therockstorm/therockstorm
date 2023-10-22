@@ -1,1 +1,1 @@
-I'm [Rocky Warren](https://www.rocky.dev), a software and security engineer based in Denver. I've ridden across the United States on a motorcycle, across Canada on a train, and across Iowa on a bicycle.
+I'm [Rocky Warren](https://www.rocky.dev), a software and security engineer based in Denver.
