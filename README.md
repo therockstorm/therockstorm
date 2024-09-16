@@ -1,3 +1,3 @@
 I'm [Rocky Warren](https://www.rocky.dev), a software engineer based in Denver.
 
-[![Rocky's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats-jzqti5pg5-rockywarrens-projects.vercel.app/api?username=therockstorm))](https://github.com/anuraghazra/github-readme-stats)
+[![Rocky's GitHub stats](https://github-readme-stats-jzqti5pg5-rockywarrens-projects.vercel.app/api?username=therockstorm)](https://github.com/anuraghazra/github-readme-stats)
